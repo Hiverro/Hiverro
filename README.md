@@ -20,6 +20,7 @@
       » Twitch=https://www.twitch.tv/h1verro
       » Reddit=https://www.reddit.com/user/Hiverro
       » Spotify=https://open.spotify.com/user/yz2g29pbwkii633rd7s2rp757
+      » Twitter=https://twitter.com/Hiverro
       » Discord=Hiverro#5040
 
 <!---
