@@ -11,7 +11,7 @@
 - 🌱 Currently, I study IT technician in an ordinary school.
 
 - 💞️ If you want to cooperate, You can try to contact me on one of My media 
-      or join my discord server: https://discord.com/invite/CNEFJqA
+      or join my discord server: https://discord.com/invite/CNEFJqA (We are discussing here mostly in Polish) 
 
 - 📫 My social accounts:
 
