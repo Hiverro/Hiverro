@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hiverro
 
-- 👀 I have 18 years old and I love My Little Pony:FiM! 💓
+- 👀 I have 19 years old and I love My Little Pony:FiM! 💓
 
       On github, I often spend time on my repositories related to discord. 
       On discord I deal with such things as technical matters on several servers, moderating them and coding bots. 
