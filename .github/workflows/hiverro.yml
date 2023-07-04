@@ -38,6 +38,7 @@ jobs:
           plugin_activity_filter: all
           plugin_activity_limit: 5
           plugin_activity_load: 300
+          plugin_activity_timestamps: yes
           plugin_activity_visibility: all
           plugin_calendar: yes
           plugin_calendar_limit: 1
@@ -60,19 +61,6 @@ jobs:
           plugin_people_limit: 24
           plugin_people_size: 28
           plugin_people_types: followers, following
-          plugin_starlists: yes
-          plugin_starlists_limit: 2
-          plugin_starlists_limit_languages: 8
-          plugin_starlists_limit_repositories: 2
-          plugin_starlists_shuffle_repositories: yes
-          plugin_steam: yes
-          plugin_steam_achievements_limit: 2
-          plugin_steam_games_limit: 1
-          plugin_steam_playtime_threshold: 2
-          plugin_steam_recent_games_limit: 1
-          plugin_steam_sections: player, most-played, recently-played
-          plugin_steam_user: 76561198331621116
-          plugin_support: yes
           plugin_tweets: yes
           plugin_tweets_attachments: yes
           plugin_tweets_limit: 2
