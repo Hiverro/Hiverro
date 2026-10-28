@@ -2275,6 +2275,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2406,7 +2411,7 @@
                 </h2>
                 <div class="row">
                     <section class="people">
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcAAwUC/8QALhAAAQMCBAUCBQUAAAAAAAAAAQIDBAURAAYSIRMxQVFxB4EUIiNhoTJCkbHB/8QAFwEBAAMAAAAAAAAAAAAAAAAAAgABA//EABkRAAMBAQEAAAAAAAAAAAAAAAABAhEhMf/aAAwDAQACEQMRAD8ArXQnJclbs1pyUsixUtViOg3xv5MybFZrKk1N5EVSfnUL/OPC+nPv5w2ZNDJA+EZajj7ffziqTTIcelSGhBjrkcJZsE77DubnDdgwHW6Dk0ENxX9AurSS8SAepF+XPA9XKPXW6k63SYEaZDTbQ8tSrquL/wC4FM00mdT4rUjS8g8QouUkBQIBBH5/GGb6Pokv5QDz0lPFcfWVa+ewSB17AYCs0cYg9plSZkSFx7kkC6Sd798coLapbchizzLmqO8RzBvsfF9vfGRGkqh1NEaMhtCHFlKjpuoi3c4y0qMKMt+OVJTJdC1s3Oi4Ivbrv13xRMJ6rMo+Ag8OSwy62pYQy5vxFBANj7J/kowvst5tp0CnGOXH2NLivphaFAeDblgn9UkIl5HeqLraBL4yTrSLfuKf6wqsvVZyDEdaRFhO3c1FTzAUr9Kevtgv0SXD/9k=" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwUG/8QAKRAAAQMDAwIGAwEAAAAAAAAAAQIDBAAFERIhMQZRBxMiIzJBFWFxgf/EABcBAAMBAAAAAAAAAAAAAAAAAAECBAP/xAAaEQACAwEBAAAAAAAAAAAAAAAAAQIDETES/9oADAMBAAIRAxEAPwChPsVvu9jdhSWy1cWCUB4DdKx+xyKJJ8V2W+iLcp0h5+PlpsaQe22c0hXJ9/8ALrf8xTMN1r3XBnRJWfvuM7VEZiQWprkwlsISRt814K8A9sjH3jmpqm4FzWly2Wi12nwmugnYD7/KjudWfSNu21CrqShxSVYyk4p+RFj3eOYS47SFlv3W3NeUIONxkDfn7rMI6KtT8mYiS+2wqO8WUgheVJABSo78kGnptSb9CyjvBX8WYjTERDbLDSY+nhKcYH6rP9Fs9LqtSwtozRKHlytZJWCOAf5Ws8UEB6EG1k6cK3HNCb9tYhoLbZcKQs59WnXx8tOM1PCDazRlwQI1wtNplTBZ0CY6FFwgq2aA+yT2rDs9XvhKnw8tLklRfcC0pzqJ/nYCo0m5SENKtbBSxEf0aw0NJP8AtTJzaVynBukJOkBOwAFbwpT6HT//2Q==" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
@@ -2419,7 +2424,7 @@
                 </h2>
                 <div class="row">
                     <section class="people">
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcAAwUC/8QALhAAAQMCBAUCBQUAAAAAAAAAAQIDBAURAAYSIRMxQVFxB4EUIiNhoTJCkbHB/8QAFwEBAAMAAAAAAAAAAAAAAAAAAgABA//EABkRAAMBAQEAAAAAAAAAAAAAAAABAhEhMf/aAAwDAQACEQMRAD8ArXQnJclbs1pyUsixUtViOg3xv5MybFZrKk1N5EVSfnUL/OPC+nPv5w2ZNDJA+EZajj7ffziqTTIcelSGhBjrkcJZsE77DubnDdgwHW6Dk0ENxX9AurSS8SAepF+XPA9XKPXW6k63SYEaZDTbQ8tSrquL/wC4FM00mdT4rUjS8g8QouUkBQIBBH5/GGb6Pokv5QDz0lPFcfWVa+ewSB17AYCs0cYg9plSZkSFx7kkC6Sd798coLapbchizzLmqO8RzBvsfF9vfGRGkqh1NEaMhtCHFlKjpuoi3c4y0qMKMt+OVJTJdC1s3Oi4Ivbrv13xRMJ6rMo+Ag8OSwy62pYQy5vxFBANj7J/kowvst5tp0CnGOXH2NLivphaFAeDblgn9UkIl5HeqLraBL4yTrSLfuKf6wqsvVZyDEdaRFhO3c1FTzAUr9Kevtgv0SXD/9k=" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwUG/8QAKRAAAQMDAwIGAwEAAAAAAAAAAQIDBAAFERIhMQZRBxMiIzJBFWFxgf/EABcBAAMBAAAAAAAAAAAAAAAAAAECBAP/xAAaEQACAwEBAAAAAAAAAAAAAAAAAQIDETES/9oADAMBAAIRAxEAPwChPsVvu9jdhSWy1cWCUB4DdKx+xyKJJ8V2W+iLcp0h5+PlpsaQe22c0hXJ9/8ALrf8xTMN1r3XBnRJWfvuM7VEZiQWprkwlsISRt814K8A9sjH3jmpqm4FzWly2Wi12nwmugnYD7/KjudWfSNu21CrqShxSVYyk4p+RFj3eOYS47SFlv3W3NeUIONxkDfn7rMI6KtT8mYiS+2wqO8WUgheVJABSo78kGnptSb9CyjvBX8WYjTERDbLDSY+nhKcYH6rP9Fs9LqtSwtozRKHlytZJWCOAf5Ws8UEB6EG1k6cK3HNCb9tYhoLbZcKQs59WnXx8tOM1PCDazRlwQI1wtNplTBZ0CY6FFwgq2aA+yT2rDs9XvhKnw8tLklRfcC0pzqJ/nYCo0m5SENKtbBSxEf0aw0NJP8AtTJzaVynBukJOkBOwAFbwpT6HT//2Q==" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
@@ -2461,7 +2466,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Oct 2026, 22:46:00 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Oct 2026, 01:56:07 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
